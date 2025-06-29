@@ -1,6 +1,0 @@
-streamlit
-pandas
-python-dateutil
-xlsxwriter
-openpyxl
-fpdf
